@@ -1,0 +1,9 @@
+NCAA.JS
+
+“NCAA.js is the college football version of the scraper...
+
+The file uses Puppeteer to open the page, click into the moneyline odds, scrape the team names and sportsbook odds, and store everything in a list...
+
+Each pair of odds gets passed into arbitrageCalc, and if the calculator finds an opportunity, it prints out the matchup and the sportsbooks to use.
+
+This file shows that the project can be expanded across different sports.”

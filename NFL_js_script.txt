@@ -1,0 +1,9 @@
+NFL.JS
+
+“NFL.js is the NFL version of the scraper...
+
+It opens the page with Puppeteer, clicks into the moneyline section, grabs the top and bottom rows from the odds table, and pulls out each team’s sportsbook odds...
+
+Once it has the odds, it loops through the matchups and compares sportsbook combinations to see if any pair creates an arbitrage opportunity...
+
+This file is more of an extension of the project.”
